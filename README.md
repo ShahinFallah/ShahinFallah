@@ -1,7 +1,6 @@
 # 💫 About Me:
 > ### I have been learning front end for five months 🧑‍<br><br>I am very interested in it👨‍💻<br><br> I am currently learning react ‍💻
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Shahin#6969) 
 
@@ -11,9 +10,7 @@
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=shahinfallah&theme=nightowl&hide_border=false' width = '100%'>
 <br>
 <br>
-<center>
-<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=shahinfallah&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact' width = '50%'>
-</center>
+<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=shahinfallah&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact' style = display:'flex' justify-content:'center'; ; width:50%'>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
