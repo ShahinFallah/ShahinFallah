@@ -10,7 +10,7 @@
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=shahinfallah&theme=nightowl&hide_border=false' width = '100%'>
 <br>
 <br>
-<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=shahinfallah&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact' style = 'width:50%; display:flex; justify-content:center;'>
+<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=shahinfallah&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact' style = 'width:50%; display:block; margin:0 auto;'>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
