@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-> ### I am 17 years old and I have been learning front end for 5 months 🧑‍<br><br>I am very interested in it👨‍💻<br><br> I am currently learning react ‍💻
+> ### I am 17 years old and I have been learning front end for 7 months 🧑‍<br><br>I am very interested in it👨‍💻<br><br> I am currently learning react ‍💻
 
 ## 🌐 Socials:
 
