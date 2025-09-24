@@ -11,9 +11,9 @@ Deepening my knowledge of Next.js and exploring its ecosystem and related librar
 
 ### Tech Stack
 
-- **Frameworks & Libraries:** React, Next.js, React Native (Expo)  
+- **Frameworks & Libraries:** React, Next.js 
 - **State Management:** Redux, Redux Toolkit, RTK Query, React Query, Zustand  
-- **UI & Styling:** MUI, ShadCN, Tailwind CSS, Framer Motion  
+- **UI & Styling:** ShadCN, Tailwind CSS, Framer Motion  
 - **Forms & Validation:** React Hook Form, Zod  
 - **Languages:** JavaScript, TypeScript  
 - **Networking:** Axios  
