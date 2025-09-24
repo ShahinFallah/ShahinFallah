@@ -1,18 +1,19 @@
-# About Me
-
-Hi, I’m Shahin — an 18-year-old Senior Front-End Developer with a passion for building modern, fast, and visually polished web applications.  
-I focus on creating scalable and maintainable front-end architectures using the latest tools and best practices.  
-From pixel-perfect UIs to performance optimization, I deliver clean, efficient, and future-proof solutions.
-
-Always learning, always improving — whether it's exploring a new framework or refining my workflow.
+### About Me
+I'm Shahin, 18 years old, focusing on front-end development.
+I work on creating fast, modern, and well-structured web applications with attention to performance and clean design.
 
 ---
 
-## Tech Stack
+### Currently Learning
+Deepening my knowledge of Next.js and exploring its ecosystem and related libraries.
 
-- **Frameworks & Libraries:** React, Next.js, React Native (Expo)
-- **State Management:** Redux, Redux Toolkit, RTK Query, React Query, Zustand
-- **UI & Styling:** MUI, ShadCN, Tailwind CSS, Framer Motion
-- **Forms & Validation:** React Hook Form, Zod
-- **Languages:** JavaScript, TypeScript
-- **Networking:** Axios
+---
+
+### Tech Stack
+
+- **Frameworks & Libraries:** React, Next.js, React Native (Expo)  
+- **State Management:** Redux, Redux Toolkit, RTK Query, React Query, Zustand  
+- **UI & Styling:** MUI, ShadCN, Tailwind CSS, Framer Motion  
+- **Forms & Validation:** React Hook Form, Zod  
+- **Languages:** JavaScript, TypeScript  
+- **Networking:** Axios  
